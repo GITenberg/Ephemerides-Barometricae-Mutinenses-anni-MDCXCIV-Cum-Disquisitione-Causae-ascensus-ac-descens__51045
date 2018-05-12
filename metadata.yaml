@@ -1,4 +1,8 @@
 _repo: Ephemerides-Barometricae-Mutinenses-anni-MDCXCIV-Cum-Disquisitione-Causae-ascensus-ac-descens__51045
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51045-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ramazzini, Bernardino
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '46213'
     url: http://www.gutenberg.org/2009/agents/46213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51045#Ephemerides-Barometricae-Mutinenses-anni-MDCXCIV-Cum-Disquisitione-Causae-ascensus-ac-descens_
 gutenberg_issued: '2016-01-26'
 gutenberg_type: Text
 identifiers:
